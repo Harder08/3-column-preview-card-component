@@ -16,8 +16,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub?share=true)
+- Live Site URL: [here](https://3-column-preview-card-component-rho-navy.vercel.app/)
 
 ### Built with
 
